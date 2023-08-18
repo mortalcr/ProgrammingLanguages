@@ -56,7 +56,7 @@ func llenarDatos() {
 	lCalzados.agregarCalzado("Nike",40,64000,2)
 	lCalzados.agregarCalzado("Nike", 41, 66000,4)
 	lCalzados.agregarCalzado("Converse", 36, 48000, 3)
-  lCalzados.agregarCalzado("Vans", 25, 23000,5) //Comprobación del rango de tallas, que no se registre
+  lCalzados.agregarCalzado("Vans", 25, 23000,6) //Comprobación del rango de tallas, que no se registre
   lCalzados.agregarCalzado("Broncos", 34,22000,4)
   lCalzados.agregarCalzado("Lakai", 43, 43000, 5)
   lCalzados.agregarCalzado("Adidas", 40, 42000, 7)
