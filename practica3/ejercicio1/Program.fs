@@ -13,9 +13,9 @@
     | _ -> failwith "Dirección no válida"
 
 // Ejemplos
-let resultado1 = desplazar "izq" 3 [1; 2; 3; 4; 5] // [4; 5; 0; 0; 0]
-let resultado2 = desplazar "der" 2 [1; 2; 3; 4; 5] // [0; 0; 1; 2; 3]
-let resultado3 = desplazar "izq" 5 [1; 2; 3; 4; 5] // [0; 0; 0; 0; 0]
+let resultado1 = desplazar "izq" 3 [1; 2; 3; 4; 5] // [4; 5; 0; 0; 0] 
+let resultado2 = desplazar "der" 2 [1; 2; 3; 4; 5] // [0; 0; 1; 2; 3] 
+let resultado3 = desplazar "izq" 5 [1; 2; 3; 4; 5] // [0; 0; 0; 0; 0] 
 
 printfn "%A" resultado1
 printfn "%A" resultado2
