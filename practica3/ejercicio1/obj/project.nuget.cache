@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4/A45qpygFEYlr3oLK1Wily2aDueGf8mngMgR3Y+wF5bpe2K/s3L/RhSHXEiUz4kYA5QgEQckqdPryLMzGadfw==",
+  "success": true,
+  "projectFilePath": "/home/mortalcr/projects/ProgrammingLanguages/practica3/ejercicio1/ejercicio1.fsproj",
+  "expectedPackageFiles": [
+    "/home/mortalcr/.nuget/packages/fsharp.core/7.0.0/fsharp.core.7.0.0.nupkg.sha512",
+    "/home/mortalcr/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
